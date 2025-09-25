@@ -1,0 +1,29 @@
+# Visual Studio cache and settings
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Logs
+*.log
+
+# Package folders
+packages/
+*.nupkg
+
+# Rider/JetBrains
+.idea/
+
+# OS generated files
+*.DS_Store
+Thumbs.db
+
+# Others
+*.swp
+appsettings.Development.json
+louiechungpos.http
