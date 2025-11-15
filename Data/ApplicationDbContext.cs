@@ -1,3 +1,5 @@
+// /Data/ApplicationDbContext.cs
+
 using louiechungpos.Models;
 using Microsoft.EntityFrameworkCore;
 
